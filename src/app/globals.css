@@ -1,0 +1,65 @@
+/* Estilo para el contenedor principal */
+.container {
+  background-color: #f8f9fa; /* Color de fondo claro */
+  border-radius: 10px; /* Bordes redondeados */
+  padding: 20px; /* Espaciado interno */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+/* Estilo para el título principal */
+h1 {
+  color: #007bff; /* Color azul de Bootstrap */
+  font-family: 'Arial', sans-serif; /* Fuente personalizada */
+  margin-bottom: 20px; /* Espaciado inferior */
+}
+
+/* Estilo para los botones de asientos */
+.btn {
+  font-weight: bold; /* Texto en negrita */
+  transition: background-color 0.3s; /* Transición suave para el color de fondo */
+}
+
+.btn-success:hover {
+  background-color: #28a745; /* Color verde más oscuro al pasar el mouse */
+}
+
+.btn-danger:hover {
+  background-color: #dc3545; /* Color rojo más oscuro al pasar el mouse */
+}
+
+/* Estilo para el resumen de compra */
+.card {
+  border: 1px solid #007bff; /* Borde azul */
+}
+
+.card-title {
+  color: #007bff; /* Color azul para el título de la tarjeta */
+}
+
+.list-group-item {
+  background-color: #e9ecef; /* Color de fondo claro para los elementos de la lista */
+}
+
+/* Estilo para el selector de sala */
+.selector-sala {
+  margin-top: 20px; /* Espaciado superior */
+}
+
+/* Estilo para los botones del selector de sala */
+.btn-primary {
+  background-color: #007bff; /* Color azul de Bootstrap */
+  border: none; /* Sin borde */
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* Color azul más oscuro al pasar el mouse */
+}
+
+/* Estilo para el botón de sala seleccionada */
+.btn-primary {
+  background-color: #007bff; /* Color azul de Bootstrap */
+  border: none; /* Sin borde */
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; }
