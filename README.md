@@ -1,3 +1,12 @@
+Descripción del Proyecto
+Este proyecto es una aplicación web de reserva de asientos para cines, desarrollada con Next.js y React. Permite a los usuarios seleccionar una sala de cine, elegir asientos disponibles y ver un resumen de su compra en tiempo real. La interfaz es responsiva y está estilizada con Bootstrap, ofreciendo una experiencia de usuario intuitiva y atractiva. Los asientos seleccionados cambian de color cuando uno ya fue seleccionado y se actualiza el total de la compra automáticamente. La aplicación también permite cambiar entre las 2 diferentes salas de cine de manera sencilla y esos botones tambien cambin de color al estar uno seleccionado, tambien cuenta con un boton de "eliminar" que permite quitar un asiento que ha sido seleccionado.
+
+adjunto imagenes de como se ve la aplicacion.
+
+![image](https://github.com/user-attachments/assets/5f497863-4d8b-4c3c-bab1-5b1b218a71c2)
+![image](https://github.com/user-attachments/assets/f7bfcac6-b8a0-4370-9c01-85f6c3ffc683)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
